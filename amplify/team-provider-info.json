@@ -10,6 +10,11 @@
       "StackName": "amplify-ngoconnector-dev-220521",
       "StackId": "arn:aws:cloudformation:us-east-1:801948301874:stack/amplify-ngoconnector-dev-220521/4e5e66f0-e17b-11ed-a11e-0a9ea1b89dd5",
       "AmplifyAppId": "d2ri9sclmrzrm"
+    },
+    "categories": {
+      "auth": {
+        "ngoconnector77aa1d77": {}
+      }
     }
   }
 }
